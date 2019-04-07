@@ -1,0 +1,50 @@
+.contains{
+  padding: 20px;
+
+}
+.containstwo{
+  padding:20px;
+  color: #003366;
+  margin-bottom: 150px;
+}
+.one{
+    width: 33%;
+    float: left;
+
+
+}
+.two{
+  width:33%;
+  float: left;
+}
+.three{
+  width:33%;
+  float: left;
+}
+.containsthree{
+ margin-top: 50px;
+ padding: 50px;
+}
+.containsfour{
+  margin-bottom: 200px;
+}
+.containsfour img{
+  border-radius: 50%;
+
+
+
+}
+.four{
+  width: 33%;
+  float: left;
+}
+.containssix{
+  padding: 20px;
+  text-align: center;
+}
+.six{
+  width: 33%;
+}
+.containssix img{
+  border-radius: 50%;
+  width: 33%;
